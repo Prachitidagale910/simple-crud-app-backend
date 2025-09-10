@@ -22,18 +22,6 @@ app.get("/", (req, res) => {
 // routes for ('/app/products/)
 app.use("/api/products", routeProducts);
 
-// // view by id
-// // reading the data
-// // here modified path : products -> product
-// app.get("/api/product/:id",);
-
-// app.post("/api/products/",);
-
-// // update a product
-// app.put("/api/product/:id", );
-
-// // delete a product
-// app.delete("/api/product/:id", );
 
 mongoose
   .connect(process.env.MONGO_URI, {
