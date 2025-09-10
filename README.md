@@ -33,7 +33,8 @@ Basic-CRUD app/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/basic-crud-app.git
+git clone https://github.com/Prachitidagale910
+/basic-crud-app.git
 cd basic-crud-app
 ```
 ## 🛠️ API Endpoints
